@@ -5,7 +5,7 @@ from datetime import datetime
 
 INPUT_FILE="DEMO_AE.xlsx"
 OUTPUT_DIR=r"C:\Users\u819970\Downloads\TEST\PracticeWork\2 Python Listings\Listings Output"
-OUTPUT_FILE=os.path.join(OUTPUT_DIR, "Listing1.xlsx")
+OUTPUT_FILE=os.path.join(OUTPUT_DIR, "Listing1_NEW.xlsx")
 
 COLUMN_WITH_LABELS = {
     'STUDYID': 'STUDYID',
