@@ -1,4 +1,4 @@
-I created this project demonstrates my ability to not only design specification but also implement clinical data listings. It highlights my skills to translate specifications into dynamic, reproducible listings for data review.
+I created this project to demonstrate my ability to not only design specification but also implement clinical data listings. It highlights my skills to translate specifications into dynamic, reproducible and smart listings for data review.
 
 In this project you can see:
 
@@ -9,18 +9,24 @@ In this project you can see:
 
 📁 Project Structure
 
-📦 Clinical-Data-programming-Project
-├── 📄 Listing Specification_MIMIC_FILE and DEMO_Datasets
-├── 📂 1 SAS Listings
-│   ├── 📄 Listing.SAS
-│   ├── 📄 Listing_Output.xlsx
-│   └── ...
-├── 📂 SAS
-│   ├── 📄 Listing.py
-│   ├── 📄 Listing_Output.xlsx
-│
-🛠️ Technologies Used
+
+ 📄 Listing Specification_MIMIC_FILE and DEMO_Datasets
+
+ 📂 1 SAS Listings
+     📄 Listing.SAS
+     📄 Listing_Output.xlsx
+
+
+ 📂 2 Python Listings
+     📄 Listing.py
+     📄 Listing_Output.xlsx
+
+
+🛠️ Technologies Used:
+
 Python (Pandas, NumPy, etc.)
 SAS (Base SAS, PROC SQL, etc.)
 Clinical Data Standards (used CDISC standards and followed Good Clinical Practices-GCP)
-The data has been completely generated and created by myself.
+
+
+NOTE: ALL the data has been completely generated and created by myself.
